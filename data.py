@@ -4,3 +4,4 @@ def triangle(rows):
 
 
 triangle(4)
+
